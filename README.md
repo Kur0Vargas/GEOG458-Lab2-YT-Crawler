@@ -8,7 +8,7 @@
 3. I-5 traffic Seattle
 
 **Number of Results Collected:**
-- Search 1: [14 rows]* 
+- Search 1: [14 rows]
 - Search 2: [17 rows]  
 - Search 3: [16 rows]
 
