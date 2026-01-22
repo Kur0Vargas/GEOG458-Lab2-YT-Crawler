@@ -18,13 +18,13 @@
 
 ##  Word Clouds
 ### Word Cloud 1 — Seattle public transit
-![Wordcloud 1](images/Seattle Public Transit Cloud.png)
+![Wordcloud 1](images/Seattle_Public_Transit_Cloud.png)
 
 ### Word Cloud 2 — Sound Transit light rail
-![Wordcloud 2](images/Sound Transit Light Rail Cloud.png)
+![Wordcloud 2](images/Sound_Transit_Light_Rail_Cloud.png)
 
 ### Word Cloud 3 — I-5 traffic Seattle
-![Wordcloud 3](images/I-5 traffic Seattle Cloud.png)
+![Wordcloud 3](images/I5_traffic_Seattle_Cloud.png)
 
 
 ## Comparisons
